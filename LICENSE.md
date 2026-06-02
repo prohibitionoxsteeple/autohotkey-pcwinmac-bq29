@@ -1,4 +1,4 @@
-# 
+# Open Source AutoHotkey workflow for Mac OS | Elite AutoHotkey workflow for PC Windows. Featuring duplicate file finder and custom cleanup profiles — optimized for maximum performance on every platform.
 
 
 
